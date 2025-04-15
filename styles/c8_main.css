@@ -63,7 +63,7 @@ header img {
 #nav_menu ul li a {
     display: block;
     text-align: center;
-    padding: 1em 0;
+    padding: 10px;
     text-decoration: none;
     background-color: #800000;
     color: white;
@@ -92,7 +92,7 @@ header img {
 
 /* the styles for the section */
 section {
-	width: 70%;
+	width: 28%;
 	float: right;
 	padding: 20px;
 }
@@ -142,7 +142,7 @@ article img {
 
 /* the styles for the aside */
 aside {
-	width: 28%;
+	width: 70%;
 	float: right;
 	padding: 20px;
 }
