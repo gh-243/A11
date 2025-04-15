@@ -57,7 +57,7 @@ header img {
 }
 #nav_menu ul li {
 	float: left;
-	width: 98%;
+	width: 100 %;
 	
 }
 #nav_menu ul li a {
@@ -92,9 +92,9 @@ header img {
 
 /* the styles for the section */
 section {
-	width: 525px;
+	width: 70%;
 	float: right;
-	padding: 0 98% 20px 98%;
+	padding: 20px;
 }
 section h1 {
 	font-size: 150%;
@@ -142,9 +142,9 @@ article img {
 
 /* the styles for the aside */
 aside {
-	width: 215px;
+	width: 28%;
 	float: right;
-	padding: 0 0 20px 98%;
+	padding: 20px;
 }
 aside h2 {
 	color: #800000;
